@@ -2,9 +2,9 @@
 
 ### 🖐DESCRIPTION
 
-> 30 ans, en formation chez SIMPLON
+> 30 ans, passion pour le *Digital* et ses nouvelles *Technologies*
 
-### ⚓SKILLS
+### ⚓ENDSKILLS
 
 > HTML, CSS et JavaScript
 > Notions de Web Design, UI/UX
