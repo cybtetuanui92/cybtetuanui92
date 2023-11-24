@@ -1,4 +1,4 @@
-### Bonjour à tous! Je suis Yann, en formation DEV WEB/ WEB MOBILE!<img src="TONLIEN" style="width:20px">😎
+### 😎Bonjour à tous! Je suis Yann, en formation DEV WEB/ WEB MOBILE!😎
 
 <!--
 **cybtetuanui92/cybtetuanui92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
