@@ -1,14 +1,14 @@
 ### <img src="https://github.com/cybtetuanui92/cybtetuanui92/assets/151553182/1118a242-5f00-4bbc-bbde-539d975fb3c6" style="width:50px">Bonjour à tous! Je suis Yann, en formation DEV WEB/WEB MOBILE!<img src="https://github.com/cybtetuanui92/cybtetuanui92/assets/151553182/1118a242-5f00-4bbc-bbde-539d975fb3c6" style="width:50px">
 
-### 🖐DESCRIPTION
+## 🖐DESCRIPTION
 
 > 30 ans, passion pour le *Digital* et ses nouvelles *Technologies*
 
-### ⚓ENDSKILLS
+## ⚓ENDSKILLS
 
-> HTML, CSS et JavaScript
-> Notions de Web Design, UI/UX
-> Projet collaboratif 
+- HTML, CSS et JavaScript
+- Notions de Web Design, UI/UX
+- Projet collaboratif 
 
 
 <!--
