@@ -2,7 +2,7 @@
 
 ## 🖐DESCRIPTION
 
-> 30 ans / passion pour le *Digital* et ses nouvelles *Technologies*
+> 31 ans / passion pour le *Digital* et ses nouvelles *Technologies*
 
 ## ⚓ENDSKILLS
 
